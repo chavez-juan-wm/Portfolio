@@ -180,7 +180,7 @@ header .intro-text .skills {
   }
 }
 section {
-  padding: 100px 0;
+  padding: 60px 0;
 }
 section h2 {
   margin: 0;
@@ -459,13 +459,13 @@ fieldset[disabled] .btn-success.active {
 }
 .portfolio-modal .modal-content h2 {
   margin: 0;
-  font-size: 3em;
+  font-size: 2em;
 }
 .portfolio-modal .modal-content img {
   margin-bottom: 30px;
 }
 .portfolio-modal .modal-content .item-details {
-  margin: 30px 0;
+  margin: 15px 0;
 }
 .portfolio-modal .close-modal {
   position: absolute;
